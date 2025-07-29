@@ -18,6 +18,7 @@ O Micro-Saas é uma plataforma que exemplifica o modelo de Software as a Service
 - **ESLint/Prettier** – Garantia de padrões de código e qualidade técnica.
 - **Controle de versão GitHub** – Fluxo colaborativo e rastreamento completo das alterações.
 
+
 ## Estrutura do Projeto
 
 A arquitetura segue o padrão de projetos escaláveis, com separação clara de responsabilidades:
