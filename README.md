@@ -1,6 +1,5 @@
 # Micro-Saas
 
-
 **Micro-Saas** é uma aplicação moderna desenvolvida com foco em arquitetura SaaS escalável, utilizando as melhores práticas de engenharia de software e tecnologias de ponta. Este projeto foi criado como parte da aula do **Sujeito Programador**, sendo totalmente refeito e aprimorado para fins de aprendizado, domínio de stack fullstack TypeScript e demonstração de habilidades avançadas em desenvolvimento web.
 
 ## Resumo Profissional
